@@ -20,7 +20,7 @@
     {"key":"fhapi9.com","name":"*🔞成人08(直连)","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"filterable":1},
     //{"key":"ggmmzy.com","name":"*🔞成人09(直连)","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"filterable":1},
    
-    {"key":"api.maozyapi.com","name":"成人10(直连)","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"filterable":1},
+    {"key":"api.maozyapi.com","name":"*🔞成人10(直连)","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"filterable":1},
 
     
     {"key":"xrbsp.com","name":"*🔞成人11(直连)","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"filterable":1},
