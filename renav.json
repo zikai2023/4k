@@ -37,7 +37,7 @@
     //{"key":"api.apilyzy.com","name":"*🔞成人18(直连)","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"filterable":1},
     {"key":"api.sexnguon.com","name":"*🔞成人19直连)","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"filterable":0},
    
-    {"key":"pgxdy.com","name":"*🔞成人20(直连)","type":0,"api":"https://www.pgxdy.com/api/xml.php"，"searchable":1,"filterable":0},
+    {"key":"pgxdy.com","name":"*🔞成人20(直连)","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"filterable":0},
 
     //{"key":"lf_js_lf_live","name":"*🔞直播(直连)(蜂蜜)","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live1.txt"},
    
