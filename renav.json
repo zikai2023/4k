@@ -1,5 +1,15 @@
 {
-  
+ "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://la.kstore.space/download/2876/DH12.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
   "sites": [
     {"key":"","name":"🔞🈲未成年人禁止访问，请止步！！","type":3,"api":"","searchable":0},
   
@@ -14,13 +24,13 @@
     {"key":"mygzycj.com","name":"*🔞成人05(直连)","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"filterable":1},
     
     {"key":"feifei67.com","name":"*🔞成人06(直连)","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"filterable":1},
-   // {"key":"dadiapi.com","name":"*🔞成人07(直连)","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"filterable":1},
+    {"key":"dadiapi.com","name":"*🔞成人07(直连)","type":0,"api":"http://f2dcj6.com/sapi?ac=list&pg=1","searchable":1,"filterable":1},
 
    
     {"key":"fhapi9.com","name":"*🔞成人08(直连)","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"filterable":1},
-    //{"key":"ggmmzy.com","name":"*🔞成人09(直连)","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"filterable":1},
+    {"key":"ggmmzy.com","name":"*🔞成人09(直连)","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"filterable":1},
    
-    {"key":"api.maozyapi.com","name":"*🔞成人10(直连)","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"filterable":1},
+    {"key":"api.maozyapi.com","name":"成人10(直连)","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"filterable":1},
 
     
     {"key":"xrbsp.com","name":"*🔞成人11(直连)","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"filterable":1},
@@ -28,7 +38,7 @@
     
  
     {"key":"gdlsp.com","name":"*🔞成人13直连)","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"filterable":1},
-    //{"key":"kkzy.me","name":"*🔞成人14(直连)","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"filterable":1},
+    {"key":"kkzy.me","name":"*🔞成人14(直连)","type":1,"api":"https://api.yirenziyuan.com/api.php/provide/vod","searchable":1,"filterable":1},
     {"key":"kxgav.com","name":"*🔞成人15(直连)","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"filterable":1},
     {"key":"lbapi9.com","name":"*🔞成人16直连)","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"filterable":1},
    
