@@ -3,7 +3,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://la.kstore.space/download/2876/DH12.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/zikai2023/4k/main/rentv.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -11,7 +11,7 @@
     }
   ],
   "sites": [
-    {"key":"","name":"🔞🈲未成年人禁止访问，请止步(直播密码0329)！！","type":3,"api":"","searchable":0},
+    {"key":"","name":"🔞🈲未成年人禁止访问，请止步！！","type":3,"api":"","searchable":0},
     {"key":"量子","name":"*🔞量子(直连)","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},   
     {"key":"cjmygzy.com","name":"*🔞成人01(直连)","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":1,"filterable":1},
     {"key":"bttcj.com","name":"*🔞成人02(直连)","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"filterable":1},  
