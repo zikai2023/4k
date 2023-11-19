@@ -1,0 +1,34 @@
+{
+  "urls": [
+    {
+	"url":"https://jihulab.com/zikaibox/me/-/raw/main/ren.json",
+	"name":"🍥我的主站🍥"
+	},
+	{
+	"url":"https://jihulab.com/zikaibox/me/-/raw/main/ren2.json",
+	"name":"🍥4K源1号🍥"
+	},
+	{
+	"url":"https://jihulab.com/zikaibox/me/-/raw/main/rentv.txt",
+	"name":"🍥4K源2号🍥"
+	},
+	
+	{
+	"url":"http://我不是.肥猫.love:63/接口禁止贩卖",
+	"name":"🍥肥猫官仓🍥"
+	},
+	{
+	"url":"https://weixine.net/ysc.json",
+	"name":"🍥运输车官仓🍥"
+	},
+	{
+	"url":"http://yydsys.top/duo",
+	"name":"🍥多多官仓🍥"
+	},
+    {
+      "name": "待添加",
+      "url": ""
+    }
+   
+  ]
+}
