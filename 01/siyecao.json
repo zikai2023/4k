@@ -1,0 +1,621 @@
+{
+	"spider": "http://119.91.31.224:9004/fan.jar",
+	"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+	"sites": [{
+			"key": "豆豆",
+			"name": "四叶草首页",
+			"type": 3,
+			"api": "csp_DouDou",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0
+		},
+		{
+			"key": "玩偶哥哥",
+			"name": "四叶草4K-1",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_WoGG",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$关"
+		},
+		{
+			"key": "空白4K",
+			"name": "四叶草4K-2",
+			"playerType": 1,
+			"type": 3,
+			"api": "https://vip.123pan.cn/1815433723/api/XYQTVBox/drpy_js/libs/drpy2.min.js",
+			"ext": "https://vip.123pan.cn/1815433723/api/XYQTVBox/drpy_js/js/腾云驾雾.js"
+		},
+		{
+			"key": "csp_Panda_玩偶哥哥",
+			"name": "四叶草4K-3",
+			"api": "csp_Panda",
+			"type": 3,
+			"searchable": 1,
+			"playerType": 2,
+			"timeout": 30,
+			"changeable": 0,
+			"ext": "https://api.lvdoui.top/1815433723/api3/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json",
+			"jar": "https://api.lvdoui.top/1815433723/api3/Panda.jar"
+		},
+		{
+			"key": "csp_CandyMuj_hjtv",
+			"name": "四叶草-韩剧专区",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_CandyMuj_hjtv",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "http://106.52.241.21:99/jar/candy11.jar"
+		},
+		{
+			"key": "drpy_js_爱弹幕",
+			"name": "四叶草动漫专区-1",
+			"playerType": 1,
+			"type": 3,
+			"api": "http://106.52.241.21:99/JSS/lib/drpy2.min.js",
+			"ext": "http://106.52.241.21:99/JSS/js/爱弹幕.js"
+		},
+		{
+			"key": "csp_xifan",
+			"name": "四叶草动漫专区-2",
+			"type": 3,
+			"api": "csp_Xifan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://api.lvdoui.top/1815433723/api3/fatcat.jar;md5;8b2ca362e9ff6ebb7c95bb5445d2ca29"
+		},
+		{
+			"key": "drpy_js_两个BT",
+			"name": "四叶草超清-1",
+			"playerType": 1,
+			"type": 3,
+			"api": "http://106.52.241.21:99/JSS/lib/drpy2.min.js",
+			"ext": "http://106.52.241.21:99/JSS/js/两个BT.js"
+		},
+		{
+			"key": "厂长",
+			"name": "四叶草超清-2",
+			"type": 3,
+			"playerType": "2",
+			"api": "https://api.lvdoui.top/1815433723/api3/js/lib/drpy2.min.js",
+			"ext": "https://api.lvdoui.top/1815433723/api3/js/lib/%E5%8E%82%E9%95%BF.js"
+		},
+		{
+			"key": "低端",
+			"name": "四叶草超清-3",
+			"type": 3,
+			"playerType": "2",
+			"api": "https://api.lvdoui.top/1815433723/api3/js/lib/drpy2.min.js",
+			"ext": "https://api.lvdoui.top/1815433723/api3/js/lib/ddys.js"
+		},
+		{
+			"key": "drpy_js_爱幕",
+			"name": "四叶草超清-4",
+			"playerType": 1,
+			"type": 3,
+			"api": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js",
+			"ext": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/%E5%98%89%E8%89%AF%E5%BD%B1%E8%A7%86.js"
+		},
+		{
+			"key": "开心果",
+			"name": "四叶草超清-5",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+		},
+		{
+			"key": "csp_Bttoo",
+			"name": "四叶草蓝光-1",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_Bttwoo",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		},
+		{
+			"key": "saohuo",
+			"name": "四叶草蓝光-2",
+			"type": 3,
+			"playerType": "2",
+			"api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+			"ext": "https://d.kstore.space/download/6296/js/骚火.js"
+		},
+		{
+			"key": "素白白",
+			"name": "四叶草蓝光-3",
+			"type": 3,
+			"api": "https://api.lvdoui.top/1815433723/api3/js/lib/drpy2.min.js",
+			"ext": "https://api.lvdoui.top/1815433723/api3/subaibai.js"
+		},
+		{
+			"key": "小柚",
+			"name": "四叶草蓝光-4",
+			"type": 3,
+			"api": "csp_AppSK",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
+		},
+		{
+			"key": "萌米",
+			"name": "四叶草蓝光-5",
+			"type": 3,
+			"api": "csp_AppMao",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+		},
+		{
+			"key": "荐片",
+			"name": "四叶草蓝光-6",
+			"api": "csp_Jianpian",
+			"type": 3,
+			"playerType": "2",
+			"ext": "http://api2.rinhome.com",
+			"jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
+		},
+		{
+			"key": "csp_Nmys",
+			"name": "四叶草蓝光-7",
+			"type": 3,
+			"api": "csp_Nmys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
+		},
+		{
+			"key": "csp_Kuaikan",
+			"name": "四叶草蓝光-8",
+			"type": 3,
+			"api": "csp_Kuaikan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
+		},
+		{
+			"key": "csp_聚短视频",
+			"name": "四叶草短视",
+			"type": 3,
+			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"key": "短剧one",
+			"name": "四叶草短剧",
+			"type": 3,
+			"api": "csp_Panda",
+			"ext": "https://api.lvdoui.top/1815433723/api3/js/lib/%E7%9F%AD%E5%89%A7.json",
+			"jar": "https://api.lvdoui.top/1815433723/api3/Panda.jar"
+		},
+		{
+			"key": "相声小品",
+			"name": "四叶草相声小品",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://vip.123pan.cn/1815433723/api/jsonN/Blixs.json"
+		},
+		{
+			"key": "戏曲",
+			"name": "四叶草戏曲",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://vip.123pan.cn/1815433723/api/jsonN/Blixq.json"
+		},
+		{
+			"key": "dr_兔小贝",
+			"name": "四叶草儿童早教",
+			"playerType": 1,
+			"type": 3,
+			"api": "http://106.52.241.21:99/JSS/lib/drpy2.min.js",
+			"ext": "http://106.52.241.21:99/JSS/js/兔小贝.js",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"key": "少儿",
+			"name": "四叶草少儿课堂",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://vip.123pan.cn/1815433723/api/jsonN/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"
+		},
+		{
+			"key": "小学",
+			"name": "四叶草小学课堂",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://vip.123pan.cn/1815433723/api/jsonN/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"
+		},
+		{
+			"key": "初中",
+			"name": "四叶草初中课堂",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://vip.123pan.cn/1815433723/api/jsonN/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
+		},
+		{
+			"key": "高中",
+			"name": "四叶草高中课堂",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://vip.123pan.cn/1815433723/api/jsonN/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
+		},
+		{
+			"key": "csp_qiumi",
+			"name": "四叶草球赛直播",
+			"type": 3,
+			"api": "http://106.52.241.21:99/JSS/lib/drpy2.min.js",
+			"ext": "http://106.52.241.21:99/JSS/js/JRKAN.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"key": "七夜",
+			"name": "四叶草-4K备用1",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_Dovx",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+		},
+		{
+			"key": "PanSou",
+			"name": "四叶草-4K备用2",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_PanSou",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+		},
+		{
+			"key": "UpYun",
+			"name": "四叶草-4K备用3",
+			"playerType": 2,
+			"type": 3,
+			"api": "csp_UpYun",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+		},
+		{
+			"key": "PanSearch",
+			"name": "四叶草-4K备用4",
+			"playerType": 2,
+			"type": 3,
+			"api": "csp_PanSearch",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+		},
+		{
+			"key": "drpy_js_奇珍异兽",
+			"name": "爱奇艺",
+			"playerType": 1,
+			"type": 3,
+			"api": "https://vip.123pan.cn/1815433723/api/XYQTVBox/drpy_js/libs/drpy2.min.js",
+			"ext": "https://vip.123pan.cn/1815433723/api/XYQTVBox/drpy_js/js/奇珍异兽.js"
+		},
+		{
+			"key": "drpy_js_优酷",
+			"name": "优酷",
+			"playerType": 1,
+			"type": 3,
+			"api": "https://vip.123pan.cn/1815433723/api/XYQTVBox/drpy_js/libs/drpy2.min.js",
+			"ext": "https://vip.123pan.cn/1815433723/api/XYQTVBox/drpy_js/js/优酷.js"
+		},
+		{
+			"key": "drpy_js_腾云驾雾",
+			"name": "腾讯",
+			"playerType": 1,
+			"type": 3,
+			"api": "https://vip.123pan.cn/1815433723/api/XYQTVBox/drpy_js/libs/drpy2.min.js",
+			"ext": "https://vip.123pan.cn/1815433723/api/XYQTVBox/drpy_js/js/腾云驾雾.js"
+		},
+		{
+			"key": "drpy_js_百忙无果",
+			"name": "芒果",
+			"playerType": 1,
+			"type": 3,
+			"api": "https://vip.123pan.cn/1815433723/api/XYQTVBox/drpy_js/libs/drpy2.min.js",
+			"ext": "https://vip.123pan.cn/1815433723/api/XYQTVBox/drpy_js/js/百忙无果.js"
+		},
+		{
+			"key": "csp_Bili",
+			"playerType": 1,
+			"name": "bilibili",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://vip.123pan.cn/1815433723/api/jsonN/Bili.json"
+		}
+
+	],
+
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "redirect",
+			"urls": [
+				"proxy://do=live&type=txt&ext=https://vip.123pan.cn/1815433723/api/tv3.txt"
+			]
+		}]
+	}],
+	"flags": ["lzm3u8", "lz", "snm3u8", "sn", "ff", "ffm3u8", "bf", "bfm3u8"],
+	"parses": [
+
+	],
+	"ijk": [{
+			"group": "软解码",
+			"options": [{
+					"category": 4,
+					"name": "opensles",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "overlay-format",
+					"value": "842225234"
+				},
+				{
+					"category": 4,
+					"name": "framedrop",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "soundtouch",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "start-on-prepared",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "http-detect-range-support",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "fflags",
+					"value": "fastseek"
+				},
+				{
+					"category": 2,
+					"name": "skip_loop_filter",
+					"value": "48"
+				},
+				{
+					"category": 4,
+					"name": "reconnect",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "enable-accurate-seek",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-auto-rotate",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-handle-resolution-change",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-hevc",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "dns_cache_timeout",
+					"value": "600000000"
+				}
+			]
+		},
+		{
+			"group": "硬解码",
+			"options": [{
+					"category": 4,
+					"name": "opensles",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "overlay-format",
+					"value": "842225234"
+				},
+				{
+					"category": 4,
+					"name": "framedrop",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "soundtouch",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "start-on-prepared",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "http-detect-range-support",
+					"value": "0"
+				},
+				{
+					"category": 1,
+					"name": "fflags",
+					"value": "fastseek"
+				},
+				{
+					"category": 2,
+					"name": "skip_loop_filter",
+					"value": "48"
+				},
+				{
+					"category": 4,
+					"name": "reconnect",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "enable-accurate-seek",
+					"value": "0"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-auto-rotate",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-handle-resolution-change",
+					"value": "1"
+				},
+				{
+					"category": 4,
+					"name": "mediacodec-hevc",
+					"value": "1"
+				},
+				{
+					"category": 1,
+					"name": "dns_cache_timeout",
+					"value": "600000000"
+				}
+			]
+		}
+	],
+	"ads": [
+		"mimg.0c1q0l.cn",
+		"www.googletagmanager.com",
+		"www.google-analytics.com",
+		"mc.usihnbcq.cn",
+		"mg.g1mm3d.cn",
+		"mscs.svaeuzh.cn",
+		"cnzz.hhttm.top",
+		"tp.vinuxhome.com",
+		"cnzz.mmstat.com",
+		"www.baihuillq.com",
+		"s23.cnzz.com",
+		"z3.cnzz.com",
+		"c.cnzz.com",
+		"stj.v1vo.top",
+		"z12.cnzz.com",
+		"img.mosflower.cn",
+		"tips.gamevvip.com",
+		"ehwe.yhdtns.com",
+		"xdn.cqqc3.com",
+		"www.jixunkyy.cn",
+		"sp.chemacid.cn",
+		"hm.baidu.com",
+		"s9.cnzz.com",
+		"z6.cnzz.com",
+		"um.cavuc.com",
+		"mav.mavuz.com",
+		"wofwk.aoidf3.com",
+		"z5.cnzz.com",
+		"xc.hubeijieshikj.cn",
+		"tj.tianwenhu.com",
+		"xg.gars57.cn",
+		"k.jinxiuzhilv.com",
+		"cdn.bootcss.com",
+		"ppl.xunzhuo123.com",
+		"xomk.jiangjunmh.top",
+		"img.xunzhuo123.com",
+		"z1.cnzz.com",
+		"v1.cnzz.com",
+		"s13.cnzz.com",
+		"xg.huataisangao.cn",
+		"z7.cnzz.com",
+		"xg.huataisangao.cn",
+		"z2.cnzz.com",
+		"s96.cnzz.com",
+		"q11.cnzz.com",
+		"thy.dacedsfa.cn",
+		"xg.whsbpw.cn",
+		"s19.cnzz.com",
+		"z8.cnzz.com",
+		"s4.cnzz.com",
+		"f5w.as12df.top",
+		"ae01.alicdn.com",
+		"videocloud.cn-hangzhou.log.aliyuncs.com",
+		"www.92424.cn",
+		"k.wudejia.com",
+		"vivovip.mmszxc.top",
+		"qiu.xixiqiu.com",
+		"cdnjs.hnfenxun.com",
+		"cms.qdwght.com"
+	]
+}
